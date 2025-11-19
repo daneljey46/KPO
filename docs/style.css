@@ -27,7 +27,6 @@ body {
 }
 
 .container {
-    position: fixed;
     bottom: 0px;
     max-width: 1200px;
 }
